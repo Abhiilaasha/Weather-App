@@ -1,5 +1,5 @@
 # Weather-App
- <h1> [Link](https://weeb-weather.netlify.app/) </h1>
+ [Link](https://weeb-weather.netlify.app/) 
 
 
 <!DOCTYPE html>
