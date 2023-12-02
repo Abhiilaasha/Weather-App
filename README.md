@@ -22,7 +22,8 @@
 
    <h2>About</h2>
     <p>This project is a simple weather app created using HTML Css and JavaScript. It's designed to provide users with real-time weather information for their desired location.</p>
-
+<h2> Preview </h2>
+<a href="https://imgur.com/4EIDxej"><img src="https://i.imgur.com/4EIDxej.png" title="source: imgur.com" /></a>
  
 </body>
 </html>
